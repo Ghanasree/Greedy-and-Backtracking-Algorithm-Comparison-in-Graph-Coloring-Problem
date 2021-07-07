@@ -1,0 +1,17 @@
+Study case:
+In our project, we will use the problem such as: “Given graph with n amount of vertex and each 
+vertex has their own neighbours. How much is the minimum color needed and what’s the result 
+of graph coloring using Greedy and Backtracking Algorithm? Which algorithm is faster and 
+more effective?” 
+
+
+Experimental Results 
+
+The experimental results are shown by the graph below:  
+
+Fig. 1 Comparison of time complexity from two algorithms. 
+ 
+Based on the graph above, the result of greedy algorithm is always faster than Backtracking 
+Algorithm. Average time of Greedy Algorithm is 0.171875 while Backtracking Algorithm’s 
+average time is 0.296875. Also, the more nodes in the graph, the more time needed to solve the 
+problem. 
