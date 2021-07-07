@@ -1,1 +1,3 @@
 # Greedy-and-Backtracking-Algorithm-Comparison-in-Graph-Coloring-Problem
+
+In this project, we do an analytic design algorithm to solve graph coloring using greedy algorithm and backtracking algorithm and find the ‘m’ (minimum) colors if possible. The graph coloring problem is a practical method of representing many real-world problems including time scheduling, frequency assignment, register allocation, and circuit board testing.  The most important fact that makes graph coloring exciting is that finding the minimum number of colors for an arbitrary graph is NP-hard. This project implements Greedy algorithms and Backtracking algorithms to find a solution for the graph coloring problem..
