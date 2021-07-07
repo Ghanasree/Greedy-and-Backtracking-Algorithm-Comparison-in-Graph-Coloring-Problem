@@ -1,0 +1,13 @@
+From the trials we can conclude that greedy algorithm is very fast and efficient, sometimes 
+
+greedy give optimal solution also. Greedy algorithm is suggested for low data or a little of 
+
+vertex. Backtracking algorithm is fast and very efficient, backtracking always give optimum 
+
+data. Backtracking is suggested for a lot of data or a lot of vertex. The minimum color needed 
+
+is based on the connection of vertex, amount of vertex and what algorithm that we use. The 
+
+result of graph coloring is we show the graph that already been colored.  
+ 
+
